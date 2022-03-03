@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sainsburys.ssa",
+      "sha256_cert_fingerprints":
+      ["22:EB:7E:0C:CE:69:B0:EA:43:DC:54:33:93:8A:93:5A:F6:9E:CA:6B:DD:F4:41:14:41:27:8F:A8:0F:4C:9C:C8"]
+    }
+  }]
